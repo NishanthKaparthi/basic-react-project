@@ -9,7 +9,7 @@ To run this app locally, clone the repository
 - Run the dev server using: ```npm run dev```
 
 ## Demo
-![React-app-screenshot](assets/ReactApp.png)
+![React-app-screenshot](src/assets/ReactApp.png)
 
 **Click to view the app :** [Live Demo](https://react-essentials-nk.netlify.app/)
 
