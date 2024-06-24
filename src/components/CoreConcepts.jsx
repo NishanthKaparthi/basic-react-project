@@ -1,11 +1,11 @@
 import CoreComponents from '../components/CoreComponents.jsx';
 import { CORE_CONCEPTS } from '../data.js';
+import Section from './Section.jsx';
 
 
 export default function CoreConcepts() {
     return (
-        <section id='core-concepts'>
-          <h2>Core Concepts</h2>
+        <Section title='Core Concepts' id='core-concepts'>
           <ul>
             {CORE_CONCEPTS.map((conceptItem) => (
               <CoreComponents 
@@ -35,6 +35,6 @@ export default function CoreConcepts() {
               image={CORE_CONCEPTS[3].image}
             /> */}
           </ul>
-        </section>
+        </Section>
     );
 }
