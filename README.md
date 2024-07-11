@@ -16,4 +16,10 @@ To run this app locally, clone the repository
 ## Technologies used
 - React 18.3.1
 - JSX (JavaScript XML or JavaScript Extension)
+- JS
+- HTML
 - CSS
+
+## Acknowledgements
+- Heartfelt thanks to **Maximilian Schwarzmüller** for their insightful tutorial (**React - The Complete Guide 2024**).
+
